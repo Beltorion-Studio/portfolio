@@ -31,7 +31,13 @@ Web Developer & Designer
 
 ### Here is my portfolio site
 
-![portfolio_site_light-mode](https://github.com/Beltorion-Studio/portfolio/assets/114475778/edf207d3-8f16-4ee5-affc-c98d6bfd1162) ![portfolio_site_dark-mode](https://github.com/Beltorion-Studio/portfolio/assets/114475778/fd672194-4a8a-432f-9282-02cb54063518)
+Light mode
+
+![portfolio_site_light-mode](https://github.com/Beltorion-Studio/portfolio/assets/114475778/edf207d3-8f16-4ee5-affc-c98d6bfd1162) 
+
+Dark mode
+
+![portfolio_site_dark-mode](https://github.com/Beltorion-Studio/portfolio/assets/114475778/fd672194-4a8a-432f-9282-02cb54063518)
 
 
 ### Socials
